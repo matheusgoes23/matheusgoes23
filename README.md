@@ -17,8 +17,8 @@
 </div>
 
 #### About me: ####
- - 👨‍💻 Back-End Web Developer
- - 📚 Graduating in Computer Science at the Federal University of the Semi-Arid (UFERSA)
+ - 👨‍💻 Software Developer
+ - 📚 Graduated in Computer Science at the Federal University of the Semi-Arid (UFERSA)
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusgoes23&show_icons=true&theme=react&count_private=true)
 
